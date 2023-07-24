@@ -41,7 +41,14 @@ img.x{
   left: 30px;
   top:320;
 }
+.para2
+{
+  position:absolute;
+  left: 500px;
+  top:380;
+}
 h3{color:blue;
+   filter: drop-shadow(0px 0px 62px #880000);
    font-size:110;
    font-type:times
    left:130px;
@@ -66,10 +73,12 @@ and benefits, more and more people these days prefer buying things online over t
 method of going into stores.
 </p>
 
-<button type="button" name="myButton" autofocus disabled>
+<p class= para2><button type="button" name="myButton" autofocus disabled>
 	learn more
 </button>
+</p>
 </body>
 
 </html>
+
 
