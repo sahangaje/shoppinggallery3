@@ -1,0 +1,75 @@
+<html>
+<head>
+<style>
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:16;
+	overflow: hidden;
+	background-color:#D4F2E7;
+}
+li {
+   float: left;
+   border-right:1px solid #bbb;
+}
+li:last-chld{
+	border-right:none;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 18px 26px;
+	text-decoration:none;
+}
+li a:hover:not(.active) {
+   background-color: #040F64;
+}
+.active{
+ background-color: #3498DB;
+}
+img.x{
+	position:absolute;
+	left:0px;
+	top:0px;
+	z-index:-1;
+	}
+.para
+{
+  color:#5C6085 ;
+  position:absolute;
+  left: 30px;
+  top:320;
+}
+h3{color:blue;
+   font-size:110;
+   font-type:times
+   left:130px;
+   top:300px;
+   }
+</style>
+</head>
+<body>
+
+<ul>
+<li><a class="active" href="home.html">HOME</a></li>
+<li><a href="news.html">T-Shirt</a></li>
+<li><a href="#contact>Frocks</a></li>
+<li><a href="#help">Toys</a></li>
+<li><a href="item.htmls">Other items</a></li>
+<li style="float:right"><a href="#about">contact me</a></li>
+</ul>
+<h3>e-Cart</h3>
+<img class="x" src="shopping-cart-filled-with-coins-copy-space-background (1).jpg" width="1550" height="900" >
+<p class=para>The internet has revolutionized the way we shop. Because of the numerous advantages <br>
+and benefits, more and more people these days prefer buying things online over the conventional<br>
+method of going into stores.
+</p>
+
+<button type="button" name="myButton" autofocus disabled>
+	learn more
+</button>
+</body>
+
+</html>
+
