@@ -54,6 +54,55 @@ h3{color:blue;
    left:130px;
    top:300px;
    }
+img.y{
+	
+   filter: drop-shadow(-17px -2px 41px #000);
+   position:absolute;
+	
+   left:80px;
+	
+   top:1000px;
+	
+   z-index:-1;
+	
+   }
+img.z{
+	
+   filter: drop-shadow(-17px -2px 41px #000);
+   position:absolute;
+	
+   left:480px;
+	
+   top:1000px;
+	
+   z-index:-1;
+   }
+img.l{
+	
+   filter: drop-shadow(-17px -2px 41px #000);
+   position:absolute;
+	
+   left:875px;
+	
+   top:1000px;
+	
+   z-index:-1;
+   }
+	
+
+img.r{
+	
+   filter: drop-shadow(-17px -2px 41px #000);
+   position:absolute;
+	
+   left:1280px;
+	
+   top:1000px;
+	
+   z-index:-1;
+   }
+	
+		
 </style>
 </head>
 <body>
@@ -67,7 +116,7 @@ h3{color:blue;
 <li style="float:right"><a href="#about">contact me</a></li>
 </ul>
 <h3>e-Cart</h3>
-<img class="x" src="shopping-cart-filled-with-coins-copy-space-background (1).jpg" width="1550" height="900" >
+<img class="x" src="shopping-cart-filled-with-coins-copy-space-background (1).jpg" width="1670" height="970" >
 <p class=para>The internet has revolutionized the way we shop. Because of the numerous advantages <br>
 and benefits, more and more people these days prefer buying things online over the conventional<br>
 method of going into stores.
@@ -77,7 +126,16 @@ method of going into stores.
 	learn more
 </button>
 </p>
+<a href="adidas.html"><img class="y" src="Adidas.PNG" /></a>
+<a href="calvin_klein.html"><img class="z" src="calvin-klein-logo-symbol-brand-clothes-with-name-design-fashion-illustration-free-vector.jpg" /></a>
+<a href="moose.html"><img class="l" src="Screen-Shot-2022-02-10-at-3.40.16-PM.png" /></a>
+<a href="dis.html"><img class="r" src="DSI-English-with-tagline.jpg" /></a>
 </body>
+
+
+</html>
+
+
 
 </html>
 
